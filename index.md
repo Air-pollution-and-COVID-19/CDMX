@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## esto es lo que se verá en la pag web
 
 You can use the [editor on GitHub](https://github.com/Air-pollution-and-COVID-19/CDMX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
